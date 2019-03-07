@@ -11,4 +11,4 @@ Microsoft.Extensions.Options.ConfigurationExtensions
 ```
 
 Used as an example in my blog post: 
-https://www.jordanlee.net/post/183263044832/configuration-options-pattern-and-dependency
+https://www.jordanlee.net/post/183297500682/configuration-options-pattern-and-dependency
